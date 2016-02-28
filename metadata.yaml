@@ -1,0 +1,27 @@
+_repo: The-Secrets-of-the-German-War-Office_6948
+contributor:
+  collaborator:
+    agent_name: Fox, Edward Lyell
+    birthdate: 1887
+    gutenberg_agent_id: '40827'
+    url: http://www.gutenberg.org/2009/agents/40827
+creator:
+  author:
+    agent_name: Graves, Armgaard Karl
+    gutenberg_agent_id: '2271'
+    url: http://www.gutenberg.org/2009/agents/2271
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6948'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Germany -- Foreign relations -- 1871-1918'
+title: The Secrets of the German War Office
+url: http://www.gutenberg.org/ebooks/6948
